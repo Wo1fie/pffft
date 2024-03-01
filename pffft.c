@@ -57,6 +57,7 @@
   - 2011/10/02, version 1: This is the very first release of this file.
 */
 
+#define _USE_MATH_DEFINES 
 #include "pffft.h"
 #include <stdlib.h>
 #include <stdio.h>
